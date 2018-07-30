@@ -1,9 +1,6 @@
-Загрузить архив и открыть файл .sln в MS VisualStudio, решение откроется автоматически.
+Р—Р°РіСЂСѓР·РёС‚СЊ Р°СЂС…РёРІ Рё РѕС‚РєСЂС‹С‚СЊ С„Р°Р№Р» .sln РІ MS VisualStudio, СЂРµС€РµРЅРёРµ РѕС‚РєСЂРѕРµС‚СЃСЏ Р°РІС‚РѕРјР°С‚РёС‡РµСЃРєРё.
 
-Если у вас нет MS VisualStudio, то
- исходный код есть в папке Matrix_shortest\Matrix_shortest в файле Program.cs 
+Р•СЃР»Рё Сѓ РІР°СЃ РЅРµС‚ MS VisualStudio, С‚Рѕ РёСЃС…РѕРґРЅС‹Р№ РєРѕРґ РµСЃС‚СЊ РІ РїР°РїРєРµ Matrix_shortest\Matrix_shortest РІ С„Р°Р№Р»Рµ Program.cs 
 
-А в папке Matrix_shortest\Matrix_shortest\obj\Debug есть готовый exe файл Matrix_shortest.exe
-
-Файлы с картой map.txt и результатом result.txt находятся в рабочей папке программы, то есть в Matrix_shortest\Matrix_shortest
-Также они откроются в обозревателе решений в VisualStudio.
+Р¤Р°Р№Р»С‹ СЃ РєР°СЂС‚РѕР№ map.txt Рё СЂРµР·СѓР»СЊС‚Р°С‚РѕРј result.txt РЅР°С…РѕРґСЏС‚СЃСЏ РІ СЂР°Р±РѕС‡РµР№ РїР°РїРєРµ РїСЂРѕРіСЂР°РјРјС‹, С‚Рѕ РµСЃС‚СЊ РІ Matrix_shortest\Matrix_shortest
+РўР°РєР¶Рµ РѕРЅРё РѕС‚РєСЂРѕСЋС‚СЃСЏ РІ РѕР±РѕР·СЂРµРІР°С‚РµР»Рµ СЂРµС€РµРЅРёР№ РІ VisualStudio.
