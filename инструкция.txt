@@ -1,0 +1,9 @@
+Загрузить архив и открыть файл .sln в MS VisualStudio, решение откроется автоматически.
+
+Если у вас нет MS VisualStudio, то
+ исходный код есть в папке Matrix_shortest\Matrix_shortest в файле Program.cs 
+
+А в папке Matrix_shortest\Matrix_shortest\obj\Debug есть готовый exe файл Matrix_shortest.exe
+
+Файлы с картой map.txt и результатом result.txt находятся в рабочей папке программы, то есть в Matrix_shortest\Matrix_shortest
+Также они откроются в обозревателе решений в VisualStudio.
